@@ -1,0 +1,3 @@
+Proverka
+test_1
+Setup.exe
