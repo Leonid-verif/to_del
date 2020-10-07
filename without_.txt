@@ -3,4 +3,5 @@ minus
 Улетай, улетай, та ра ра ра...
 stop_version_2
 Stop
-
+update client ID
+where ID_TICKET='231'
